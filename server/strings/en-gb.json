@@ -1,0 +1,27 @@
+{
+    "username_or_email_exists": "A user with that username or email already exists.",
+    "invalid_credentials": "Invalid credentials. Check your username or password.",
+    "user_not_found": "User not found.",
+    "users_not_found": "No users found.",
+    "users_deleted": "All users were deleted successfully",
+
+    "post_not_found": "Post not found.",
+    "posts_not_found": "No posts found.",
+    "post_not_author": "You are no the author of the post. Action not allowed.",
+    "post_deleted": "Post was deleted successfully.",
+    "posts_deleted": "All posts were deleted successfully.",
+    "post_visualizations_deleted": "All visualizations in the post were deleted successfully.",
+    "post_visualizations_not_found": "Post does not contain any visualizations.",
+
+    "visualization_not_found": "Visualization not found.",
+    "visualizations_not_found": "No visualizations found.",
+    "visualization_not_author": "You are no the author of the visualization. Action not allowed.",
+    "visualization_deleted": "Visualization was deleted successfully.",
+    "visualizations_deleted": "All visualizations were deleted successfully.",
+
+    "comment_not_found": "Comment not found.",
+    "comments_not_found": "No comments found.",
+    "comment_not_author": "You are no the author of the comment. Action not allowed.",
+    "comment_deleted": "Comment was deleted successfully.",
+    "comments_deleted": "All comments were deleted successfully."
+}

@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"psycopg2" = "*"
+Flask = "*"
+Flask-JWT-Extended = "*"
+Flask-SQLAlchemy = "*"
+python-dotenv = "*"
+flask-migrate = "*"
+flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+marshmallow = "*"
+psycopg2-binary = "*"
+flask-restful = "*"
+requests = "*"
+google-cloud-bigquery = "*"
+flask-cors = "*"
+flask-socketio = "*"
+pytest = "*"
+flask-testing = "*"
+mock = "*"
+coverage = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
